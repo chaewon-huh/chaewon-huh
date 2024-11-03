@@ -1,16 +1,37 @@
-## Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> HELLO!
 
-<!--
-**chaewon-huh/chaewon-huh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Chaewon Huh, an 18-year-old AI Engineer.
 
-Here are some ideas to get you started:
+I studied for one semester at POSTECH before taking a leave of absence to work as an AI Engineer at Dalpha AI.  
+I’m eager to connect with smart, young, and passionate individuals to make a significant impact on the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently interested in...  
+- Effective utilization of AI
+  
+
+## Education
+- POSTECH | Mar. 2024 - | B.S. in Interdisciplinary Studies (Expected Major: Computer Science)
+
+
+## Experience
+- Dalpha AI | Jul. 2024 - | AI Engineer
+
+
+## Awards
+- **24' Postech Presidential Fellowship for Special Talent (1 in 362)**  
+- **23' International Science and Engineer Fair Finalist & Grand Awards 4th Place in Embedded Systems**  
+- 22' International Science and Engineer Fair Finalist  
+- 22' Korea Code Fair 1st Place  
+- 22' Talent Award of Korea  
+- 21' Korea Code Fair 2nd Place  
+
+
+
+---
+
+More information about me...  
+- http://chaewonhuh.me
+
+Feel free to contact me through any of the following channels!  
+- cw.huh@postech.ac.kr  
+- https://www.linkedin.com/in/cwhuh/
