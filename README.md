@@ -1,5 +1,3 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> HELLO!
-
 I'm Chaewon Huh, an 19-year-old AI Engineer.
 
 I studied for one semester at POSTECH before taking a leave of absence to work as an AI Engineer at Dalpha AI.  
