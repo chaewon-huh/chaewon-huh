@@ -1,4 +1,4 @@
-I'm Chaewon Huh, an 19-year-old AI Engineer.
+I'm Chaewon Huh, 19-year-old AI Engineer.
 
 I studied for one semester at POSTECH before taking a leave of absence to work as an AI Engineer at Dalpha AI.  
 I’m eager to connect with smart, young, and passionate individuals to make a significant impact on the world.
