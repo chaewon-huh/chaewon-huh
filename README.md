@@ -19,7 +19,7 @@ I'm currently interested in...
 
 
 ## Awards
-- **24' Postech Presidential Fellowship for Special Talent (1 in 362)**  
+- **24' Postech Presidential Fellowship for Special Talent (2 in 362)**  
 - **23' International Science and Engineer Fair Finalist & Grand Awards 4th Place in Embedded Systems**  
 - 22' International Science and Engineer Fair Finalist  
 - 22' Korea Code Fair 1st Place  
